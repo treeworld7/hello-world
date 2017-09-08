@@ -1,5 +1,5 @@
 # hello-world
-a short description.
+a description.
 the changes:
 1
 2
